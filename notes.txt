@@ -3,3 +3,5 @@ mongod --smallfiles
 MONGO_URI=mongodb://localhost:27017/clementinejs
 run node server: 
 node server.js
+
+add remote git remote set-url origin https://github.com/richardsa/request-headers.git
